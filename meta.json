@@ -1,0 +1,9 @@
+{
+  "id": "larth",
+  "name": "Larth",
+  "author": "Nomishark",
+  "version": "1.0.0",
+  "description": "Adds 3 custom jokers: Money Joker, Chip & Mult Joker, and Half Blind Joker.",
+  "dependencies": ["steamodded"],
+  "homepage": "https://github.com/elijahsimon030-afk/larth/new/main"
+}
